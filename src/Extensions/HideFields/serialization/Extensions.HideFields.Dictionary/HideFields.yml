@@ -1,0 +1,18 @@
+﻿---
+ID: "2b6ef67d-5f07-4f39-9084-f92e5a71f5f7"
+Parent: "d4e9cea8-9e14-41ae-aa0f-6f2472845a4e"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/system/Dictionary/Extensions/HideFields
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170315T140814Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
